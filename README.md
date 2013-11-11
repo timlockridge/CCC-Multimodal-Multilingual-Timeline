@@ -1,4 +1,4 @@
-CCCC-Multimodal-Multilingual-Timeline
+CCC-Multimodal-Multilingual-Timeline
 =====================================
 
 This timeline is part of larger collaborative project with Bruce Horner and Cindy Selfe. The timeline maps the use of two keywords--"multilingual" and "multimodal"--in CCC. The timeline is built with [timelineJS](http://timeline.knightlab.com/), with just a few minor changes to the javascript & css.
