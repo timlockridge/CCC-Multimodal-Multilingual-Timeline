@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en"><!--
+  	 
+  	88888888888 d8b                        888 d8b                888888   d8888b  
+  	    888     Y8P                        888 Y8P                   88b d88P  Y88b 
+  	    888                                888                       888 Y88b
+  	    888     888 88888b d88b     d88b   888 888 88888b     d88b   888   Y888b
+  	    888     888 888  888  88b d8P  Y8b 888 888 888  88b d8P  Y8b 888      Y88b
+  	    888     888 888  888  888 88888888 888 888 888  888 88888888 888        888 
+  	    888     888 888  888  888 Y8b      888 888 888  888 Y8b      88P Y88b  d88P 
+  	    888     888 888  888  888   Y8888  888 888 888  888   Y8888  888   Y8888P
+  	                                                                d88P            
+  	                                                              d88P             
+  	                                                            888P              
+  	 -->
+  <head>
+    <title>Tracing multimodal -- timeline</title>
+    <meta charset="utf-8">
+    <meta name="description" content="TimelineJS example">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <!-- Style-->
+    <style>
+      html, body {
+       height:100%;
+       padding: 0px;
+       margin: 0px;
+      }
+
+	cite {
+		font-style: italic;
+	}
+
+	.vco-storyjs h1 a, .vco-storyjs h2 a, .vco-storyjs h3 a, .vco-storyjs h4 a, .vco-storyjs h5 a, .vco-storyjs h6 a {
+		color: #08c !important;
+	}	
+
+.vco-storyjs h1 a:hover, .vco-storyjs h2 a:hover, .vco-storyjs h3 a:hover, .vco-storyjs h4 a:hover, .vco-storyjs h5 a:hover, .vco-storyjs h6 a:hover {
+		color: #17668E !important;
+	}	
+
+  .vco-timeline .vco-navigation .timenav-background .timenav-tag-row-1 {
+    background-color: #0CCCE3 !important;
+  }
+
+ .vco-timeline .vco-navigation .timenav-background .timenav-tag-row-1 div h3, .vco-timeline .vco-navigation .timenav-background .timenav-tag-row-2 div h3 {
+  color: #fff !important;
+  text-shadow: none !important;
+}
+
+.vco-timeline .vco-navigation .timenav-background .timenav-tag-row-2 {
+    background-color: #0BD9B7 !important;
+  }
+
+  .vco-slider .slider-item .content .content-container .text .container .multilingual {
+    background-color: #0CCCE3 !important;
+  }
+
+  .vco-slider .slider-item .content .content-container .text .container .multimodal {
+    background-color: #0BD9B7 !important;
+  }
+
+  .vco-storyjs img.github-logo {
+    border: none !important;
+    height: 16px !important;
+  }
+
+  .vco-storyjs a {
+    opacity: .5 !important;
+  }
+
+  .vco-storyjs a:hover {
+    opacity: 1.0 !important;
+  }
+
+    </style>
+    <!-- HTML5 shim, for IE6-8 support of HTML elements--><!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+      <!-- BEGIN Timeline Embed -->
+      <div id="timeline-embed"></div>
+      <script type="text/javascript">
+        var timeline_config = {
+         width: "100%",
+         height: "100%",
+         source: 'cccc.json'
+        }
+      </script>
+      <script type="text/javascript" src="js/storyjs-embed.js"></script>
+      <!-- END Timeline Embed-->
+  </body>
+</html>

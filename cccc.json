@@ -1,0 +1,687 @@
+{
+    "timeline":
+    {
+        "headline":"Tracing the terms &ldquo;multilingual&rdquo; and &ldquo;multimodal&rdquo; in <i>College Composition and Communication</i>, 1991-2009",
+        "type":"default",
+		"text":"<a href=\"http://www.github.com\"><img src=\"img/github.png\" alt=\"github logo\" class=\"github-logo\"></a>",
+		"startDate":"2009,12,1",
+        "date": [
+            {
+                "startDate":"2009,12",
+				"endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v61-2\" target=\"_blank\">Site-Specific: Virtual Refinishing in Contemporary Rhetorical Practice</a>",
+                "text":"<p>Joseph Janangelo<br>Vol. 61, No. 2 (DECEMBER 2009) (pp. 297-320)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/janangelo-1209.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2009,9",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v61-1\" target=\"_blank\">Institutional Dimensions of Academic Computing</a>",
+                "text":"<p>Stuart A. Selber<br>Vol. 61, No. 1 (SEPTEMBER 2009) (pp. 10-34)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/selber-0909.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2009,9",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v61-1\" target=\"_blank\">Popular Literacy and the Resources of Print Culture: The South African Committee for Higher Education</a>",
+                "text":"<p>John Trimbur<br>Vol. 61, No. 1 (SEPTEMBER 2009) (pp. 85-108)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/trimbur-0909.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2009,6",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v60-4\" target=\"_blank\">The Movement of Air, the Breath of Meaning: Aurality and  Multimodal Composing</a>",
+                "text":"<p>Cynthia L. Selfe<br>Vol. 60, No. 4 (JUNE 2009) (pp. 616-663)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/selfe-0609.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2008,6",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v59-4\" target=\"_blank\">The Ethics of Digital Writing Research: A Rhetorical Approach</a>",
+                "text":"<p>Heidi McKee and James E. Porter<br>Vol. 59, No. 4 (Jun., 2008) (pp. 711-749)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/mckeeporter-0608.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2007,12",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v59-2\" target=\"_blank\">Marveling at <i>The Man Called Nova</i>: Comics as Sponsors of Multimodal Literacy</a>",
+                "text":"<p>Dale Jacobs<br>Vol. 59, No. 2 (Dec., 2007) (pp. 180-205)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/jacobs-1207.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2007,9",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v59-1\" target=\"_blank\">Accessing Disability: A Nondisabled Student Works the Hyphen</a>",
+                "text":"<p>Margaret Price<br>Vol. 59, No. 1 (Sep., 2007) (pp. 53-76)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/price-0907.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2007,2",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v58-3\" target=\"_blank\">Toward a Civic Rhetoric for Technologically and Scientifically Complex Places: Invention, Performance, and Participation</a>",
+                "text":"<p>W. Michele Simmons and Jeffrey T. Grabill<br>Vol. 58, No. 3 (Feb., 2007) (pp. 419-448)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/simmonsetal-0207.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2007,9",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v59-1\" target=\"_blank\">The Ethics of Argument: Rereading <em>Kairos</em> and Making Sense in a Timely Fashion</a>",
+                "text":"<p>Michael Harker<br>Vol. 59, No. 1 (Sep., 2007) (pp. 77-97)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/harker-0907.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2006,12",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v58-2\" target=\"_blank\">2006 CCCC Chair&rsquo;s Address: Riding a One-Eyed Horse: Reining in and Fencing Out</a>",
+                "text":"<p>Judith A. (Jay) Wootten<br>Vol. 58, No. 2 (Dec., 2006) (pp. 236-245)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/wootten-1206.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2006,12",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v58-2\" target=\"_blank\">The Teacher, the Body</a>",
+                "text":"<p>Jay Dolmage<br>Vol. 58, No. 2 (Dec., 2006) (pp. 267-277)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/dolmage-1206.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2006,12",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v58-2\" target=\"_blank\">Twenty Years in: An Essay in Two Parts</a>",
+                "text":"<p>Paul Heilker<br>Vol. 58, No. 2 (Dec., 2006) (pp. 182-212)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/heilker-1206.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2006,6",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v57-4\" target=\"_blank\">The Place of World Englishes in Composition: Pluralization Continued</a>",
+                "text":"<p>A. Suresh Canagarajah<br>Vol. 57, No. 4 (Jun., 2006) (pp. 586-619)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/canagarajah-0606.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2006,6",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v57-4\" target=\"_blank\">The Place of World Englishes in Composition: Pluralization Continued</a>",
+                "text":"<p>A. Suresh Canagarajah<br>Vol. 57, No. 4 (Jun., 2006) (pp. 586-619)</p>",
+                "tag":"multilingual",
+                "asset":
+                {
+                    "media":"img/canagarajah-0606.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2006,6",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v57-4\" target=\"_blank\">Responses to Richard Fulkerson, &ldquo;Composition at the Turn of the Twenty-First Century&rdquo;</a>",
+                "text":"<p>Alan Chidsey Dickson, Jaime Armin Mejía, Jeffrey Zorn and Patricia Harkin<br>Vol. 57, No. 4 (Jun., 2006) (pp. 730-762)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/dicksonetal-0606.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2005,12",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v57-2\" target=\"_blank\">Chair&rsquo;s Letter</a>",
+                "text":"<p>Doug Hesse<br>Vol. 57, No. 2 (Dec., 2005) (pp. 372-382)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/hesse-1205.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2005,12",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v57-2\" target=\"_blank\">A Multimodal Task-Based Framework for Composing</a>",
+                "text":"<p>Jody Shipka<br>Vol. 57, No. 2 (Dec., 2005) (pp. 277-306)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/shipka-1205.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2005,12",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v57-2\" target=\"_blank\">Performing Writing, Performing Literacy</a>",
+                "text":"<p>Jenn Fishman, Andrea Lunsford, Beth McGregor and Mark Otuteye<br>Vol. 57, No. 2 (Dec., 2005) (pp. 224-252)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/fishmanetal-1205.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2005,9",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v57-1\" target=\"_blank\">Transgender Rhetorics: (Re)Composing Narratives of the Gendered Body</a>",
+                "text":"<p>Jonathan Alexander<br>Vol. 57, No. 1 (Sep., 2005) (pp. 45-82)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/alexander-0905.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2004,12",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v56-2\" target=\"_blank\">Review <i>What Video Games Have to Teach Us about Learning and Literacy</i> by James Paul Gee</a>",
+                "text":"<p>Scott Lloyd DeWitt, Cynthia L. Selfe and Pamela Takayoshi<br>Vol. 56, No. 2 (Dec., 2004) (pp. 335-342)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/dewittetal-1204.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2004,9",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v56-1\" target=\"_blank\">An Essay on the Work of Composition: Composing English against the Order of Fast Capitalism</a>",
+                "text":"<p>Min-Zhan Lu <br>Vol. 56, No. 1 (Sep., 2004) (pp. 16-50)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/lu-0904.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2004,6",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v55-4\" target=\"_blank\">Becoming Literate in the Information Age: Cultural Ecologies and the Literacies of Technology</a>",
+                "text":"<p>Gail E. Hawisher, Cynthia L. Selfe, Brittney Moraski and Melissa Pearson<br>Vol. 55, No. 4 (Jun., 2004) (pp. 642-692)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/hawisheretal-0604.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2003,6",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v54-4\" target=\"_blank\">Understanding Visual Rhetoric in Digital Writing Environments</a>",
+                "text":"<p>Mary E. Hocks<br>Vol. 54, No. 4 (Jun., 2003) (pp. 629-656)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/hocks-0603.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2002,12",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v54-2\" target=\"_blank\">Review: <i>Multimodal Discourse: The Modes and Media of Contemporary Communication</i> by Gunther Kress and Theo van Leeuwen</a>",
+                "text":"<p>Lester Faigley<br>Vol. 54, No. 2 (Dec., 2002) (pp. 318-320)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/faigley-1202.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2002,12",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v54-2\" target=\"_blank\">Review: <i>Writing Center Research: Extending the Conversation</i> by Paula Gillespie, Alice Gillam, Lady Falls Brown, and Byron Stay, editors</a>",
+                "text":"<p>Harvey Kail<br>Vol. 54, No. 2 (Dec., 2002) (pp. 315-318)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/kail-1202.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2002,9",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v54-1\" target=\"_blank\">From Analysis to Design: Visual Communication in the Teaching of Writing</a>",
+                "text":"<p>Diana George<br>Vol. 54, No. 1 (Sep., 2002) (pp. 11-39)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/george-0902.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2001,6",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v52-4\" target=\"_blank\">Review: <i>Multiliteracies: Literacy Learning and the Design of Social Futures</i> by Bill Cope and Mary Kalantzis, eds.</a>",
+                "text":"<p>John Trimbur<br>Vol. 52, No. 4 (Jun., 2001) (pp. 659-662)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/trimbur-0601.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2001,2",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v52-3\" target=\"_blank\">Becoming Visible: Lessons in Disability</a>",
+                "text":"<p>Brenda Jo Brueggemann, Linda Feldmeier White, Patricia A. Dunn, Barbara A. Heifferon and Johnson Cheu<br>Vol. 52, No. 3 (Feb., 2001) (pp. 368-398)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/brueggemannetal-0201.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1998,12",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v50-2\" target=\"_blank\">Review: Composition and Campus Diversity: Testing Academic and Social Values</a>",
+                "text":"<p>Carol Petersen<br>Vol. 50, No. 2 (Dec., 1998) (pp. 277-291)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/petersen-1298.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1994,5",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v45-2\" target=\"_blank\">Adventuring into Writing Assessment</a>",
+                "text":"<p>Richard Haswell and Susan Wyche-Smith<br>Vol. 45, No. 2 (May, 1994) (pp. 220-236)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/haswell-0594.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1991,5",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v42-2\" target=\"_blank\">Paradigm Debates, Turf Wars, and the Conduct of Sociocognitive Inquiry in Composition</a>",
+                "text":"<p>Carol Berkenkotter<br>Vol. 42, No. 2 (May, 1991) (pp. 151-169)</p>",
+                "tag":"multimodal",
+                "asset":
+                {
+                    "media":"img/berkenkotter-0591.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1990,10",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v41-3\" target=\"_blank\">Reply</a>",
+                "text":"<p>Andrea Lunsford<br>Vol. 41, No. 3 (Oct., 1990) (pp. 337-338)</p>",
+                "tag":"multilingual",
+                "asset":
+                {
+                    "media":"img/lunsford-1090.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1991,12",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v42-4\" target=\"_blank\">Review: <i>Not Only English: Affirming America&rsquo;s Multilingual Heritage</i> by Harvey A. Daniels; <i>Perspectives on Official English</i> by Karen L. Adams and Daniel T. Brink</a>",
+                "text":"<p>Alice M. Roy<br>Vol. 42, No. 4 (Dec., 1991) (pp. 520-523)</p>",
+                "tag":"multilingual",
+                "asset":
+                {
+                    "media":"img/roy-1291.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1993,12",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v44-4\" target=\"_blank\">Tutoring ESL Students: Issues and Options</a>",
+                "text":"<p>Muriel Harris and Tony Silva<br>Vol. 44, No. 4 (Dec., 1993) (pp. 525-537)</p>",
+                "tag":"multilingual",
+                "asset":
+                {
+                    "media":"img/harrisetal-1293.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1995,5",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v46-2\" target=\"_blank\">Importing Composition: Teaching and Researching Academic Writing Beyond North America</a>",
+                "text":"<p>Mary N. Muchiri, Nshindi G. Mulamba, Greg Myers and Deoscorous B. Ndoloi<br>Vol. 46, No. 2 (May, 1995) (pp. 175-198)</p>",
+                "tag":"multilingual",
+                "asset":
+                {
+                    "media":"img/muchirietal-0595.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1995,10",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v46-3\" target=\"_blank\">Review: <i>Critical Theory and Classroom Talk</i> by Robert Young</a>",
+                "text":"<p>Vol. 46, No. 3 (Oct., 1995) (p. 463)</p>",
+                "tag":"multilingual",
+                "asset":
+                {
+                    "media":"img/young-1095.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1996,2",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v47-1\" target=\"_blank\">From the Margins to the Mainstream: Reconceiving Remediation</a>",
+                "text":"<p>Mary Soliday<br>Vol. 47, No. 1 (Feb., 1996) (pp. 85-100)</p>",
+                "tag":"multilingual",
+                "asset":
+                {
+                    "media":"img/soliday-0296.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1997,10",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v48-3\" target=\"_blank\">Review: <i>Competing and Consensual Voices: The Theory and Practice of Argument</i> by Patrick J. M. Costello and Sally Mitches</a>",
+                "text":"<p>Vol. 48, No. 3 (Oct., 1997) (pp. 432-433)</p>",
+                "tag":"multilingual",
+                "asset":
+                {
+                    "media":"img/review-1097.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1999,2",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v50-3\" target=\"_blank\">CCCC&rsquo;s Role in the Struggle for Language Rights</a>",
+                "text":"<p>Geneva Smitherman<br>Vol. 50, No. 3, A Usable Past: CCC at 50: Part 1 (Feb., 1999) (pp. 349-376)</p>",
+                "tag":"multilingual",
+                "asset":
+                {
+                    "media":"img/smitherman-0299.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2002,6",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v53-4\" target=\"_blank\">English Only and U.S. College Composition</a>",
+                "text":"<p>Bruce Horner and John Trimbur<br>Vol. 53, No. 4 (Jun., 2002) (pp. 594-630)</p>",
+                "tag":"multilingual",
+                "asset":
+                {
+                    "media":"img/hornertrimbur-0602.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2002,6",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v53-4\" target=\"_blank\">&ldquo;To Protect and Serve&rdquo;: African American Female Literacies</a>",
+                "text":"<p>Elaine Richardson<br>Vol. 53, No. 4 (Jun., 2002) (pp. 675-704)</p>",
+                "tag":"multilingual",
+                "asset":
+                {
+                    "media":"img/richardson-0602.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2002,6",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v53-4\" target=\"_blank\">Race, Literacy, and the Value of Rights Rhetoric in Composition Studies</a>",
+                "text":"<p>Patrick Bruch and Richard Marback<br>Vol. 53, No. 4 (Jun., 2002) (pp. 651-674)</p>",
+                "tag":"multilingual",
+                "asset":
+                {
+                    "media":"img/bruchmarback-0602.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2004,9",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v56-1\" target=\"_blank\">An &ldquo;Immensely Simplified Task&rdquo;: Form in Modern Composition-Rhetoric</a>",
+                "text":"<p>Judith Goleman<br>Vol. 56, No. 1 (Sep., 2004) (pp. 51-71)</p>",
+                "tag":"multilingual",
+                "asset":
+                {
+                    "media":"img/goleman-0904.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2005,9",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v57-1\" target=\"_blank\">Revisiting the Promise of <i>Students&rsquo; Right to Their Own Language</i>: Pedagogical Strategies</a>",
+                "text":"<p>Valerie Felita Kinloch<br>Vol. 57, No. 1 (Sep., 2005) (pp. 83-113)</p>",
+                "tag":"multilingual",
+                "asset":
+                {
+                    "media":"img/kinloch-0905.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2005,9",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v57-1\" target=\"_blank\">Review: <i>Crossing the Curriculum: Multilingual Learners in College Classrooms</i> by Vivian Zamel and Ruth Spack</a>",
+                "text":"<p>Carrie Steenburgh<br>Vol. 57, No. 1 (Sep., 2005) (pp. 181-183)</p>",
+                "tag":"multilingual",
+                "asset":
+                {
+                    "media":"img/steenburgh-0905.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2006,9",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v58-1\" target=\"_blank\">Plagiarism as Literacy Practice: Recognizing and Rethinking Ethical Binaries</a>",
+                "text":"<p>Kathryn Valentine<br>Vol. 58, No. 1 (Sep., 2006) (pp. 89-109)</p>",
+                "tag":"multilingual",
+                "asset":
+                {
+                    "media":"img/valentine-0906.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2007,6",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v58-4\" target=\"_blank\">The Erasure of Language</a>",
+                "text":"<p>Susan Peck MacDonald<br>Vol. 58, No. 4 (Jun., 2007) (pp. 585-625)</p>",
+                "tag":"multilingual",
+                "asset":
+                {
+                    "media":"img/macdonald-0607.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2008,2",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v59-3\" target=\"_blank\">&ldquo;English May Be My Second Language, but I'm Not &lsquo;ESL&rsquo;&rdquo;</a>",
+                "text":"<p>Christina Ortmeier-Hooper<br>Vol. 59, No. 3 (Feb., 2008) (pp. 389-419)</p>",
+                "tag":"multilingual",
+                "asset":
+                {
+                    "media":"img/hooper-0208.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2008,2",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v59-3\" target=\"_blank\">Review Essay: The Literacies of Hip-Hop</a>",
+                "text":"<p>Nancy Effinger Wilson<br>Vol. 59, No. 3 (Feb., 2008) (pp. 538-547)</p>",
+                "tag":"multilingual",
+                "asset":
+                {
+                    "media":"img/wilson-0208.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2008,6",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v59-4\" target=\"_blank\">&ldquo;Mistakes Are a Fact of Life&rdquo;: A National Comparative Study</a>",
+                "text":"<p>Andrea A. Lunsford and Karen J. Lunsford<br>Vol. 59, No. 4 (Jun., 2008) (pp. 781-806)</p>",
+                "tag":"multilingual",
+                "asset":
+                {
+                    "media":"img/lunsford-0608.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2009,2",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v60-3\" target=\"_blank\">Modernity and Empire: A Modest Analysis of Early Colonial Writing Practices</a>",
+                "text":"<p>Joseph Jeyaraj<br>Vol. 60, No. 3 (Feb., 2009) (pp. 468-492)</p>",
+                "tag":"multilingual",
+                "asset":
+                {
+                    "media":"img/jeyaraj-0209.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2009,12",
+                "endDate":"",
+                "headline":"<a href=\"http://www.ncte.org/cccc/ccc/issues/v61-2\" target=\"_blank\">&ldquo;Internationalization&rdquo; and Composition Studies: Reorienting the Discourse</a>",
+                "text":"<p>Christiane Donahue<br>Vol. 61, No. 2 (DECEMBER 2009) (pp. 212-243)</p>",
+                "tag":"multilingual",
+                "asset":
+                {
+                    "media":"img/donahue-1209.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+        ]
+    }
+}
