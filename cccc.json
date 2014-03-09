@@ -1,10 +1,10 @@
 {
     "timeline":
     {
-        "headline":"Tracing the terms &ldquo;multilingual&rdquo; and &ldquo;multimodal&rdquo; in <i>College Composition and Communication</i>, 1991-2009",
+        "headline":"Tracing the terms &ldquo;multilingual&rdquo; and &ldquo;multimodal&rdquo; in <i>College Composition and Communication</i>, 1991-2009<br><small>Compiled by Bruce Horner, Cynthia Selfe, and Tim Lockridge</small>",
         "type":"default",
 		"text":"<a href=\"http://www.github.com\"><img src=\"img/github.png\" alt=\"github logo\" class=\"github-logo\"></a>",
-		"startDate":"2009,12,1",
+        "startDate":"2009,12,1",
         "date": [
             {
                 "startDate":"2009,12",
