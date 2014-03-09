@@ -3,8 +3,13 @@
     {
         "headline":"Tracing the terms &ldquo;multilingual&rdquo; and &ldquo;multimodal&rdquo; in <i>College Composition and Communication</i>, 1991-2009<br><small>Compiled by Bruce Horner, Cynthia Selfe, and Tim Lockridge</small>",
         "type":"default",
+<<<<<<< HEAD
 		"text":"<a href=\"http://www.github.com\"><img src=\"img/github.png\" alt=\"github logo\" class=\"github-logo\"></a>",
         "startDate":"2009,12,1",
+=======
+		"text":"<a href=\"http://www.github.com/timlockridge/CCC-Multimodal-Multilingual-Timeline\"><img src=\"img/github.png\" alt=\"github logo\" class=\"github-logo\"></a>",
+		"startDate":"2009,12,1",
+>>>>>>> 6e4b7f7ef3ab6139961015700942daa8fa1385cf
         "date": [
             {
                 "startDate":"2009,12",
